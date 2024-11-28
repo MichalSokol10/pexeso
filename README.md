@@ -1,4 +1,5 @@
-# Hra Pexeso - kotlin
+# Hra Pexeso
+## kotlin
 
 - vytvoření nové hry
 - volba jména hráče
